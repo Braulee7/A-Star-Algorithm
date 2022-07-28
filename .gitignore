@@ -1,0 +1,4 @@
+*.exe
+*.dll
+project 1.00/lib/
+project 1.00/sdl2/.vscode/
